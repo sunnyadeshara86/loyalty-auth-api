@@ -1,1 +1,1 @@
-# loyalty-auth-api
+# Loyalty AuthN/AuthZ API
